@@ -1,4 +1,4 @@
-# Hey, I'm Paul 👋
+# Hi, I'm Paul 👋
 
 I'm a technical support engineer and team leader based in Seattle, WA. I spend most of my time diagnosing production issues, writing SQL, and building tooling that makes support teams faster and more effective.
 
