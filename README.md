@@ -1,6 +1,6 @@
 # Hey, I'm Paul 👋
 
-I'm a support engineer based in Seattle, WA. I spend most of my time diagnosing production issues, writing SQL, and building tooling that makes support teams faster and more effective.
+I'm a technical support engineer and team leader based in Seattle, WA. I spend most of my time diagnosing production issues, writing SQL, and building tooling that makes support teams faster and more effective.
 
 Currently at **HiBob** as a CX Engineer & Team Lead, where I own incident triage and mitigation for the Bob Finance platform — working across a .NET 8 / C# backend, PostgreSQL and SingleStore databases, and a TypeScript frontend. I also build internal AI tooling and automation pipelines, and work directly with Engineering on bug fixes and pre-release validation.
 
