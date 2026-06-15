@@ -12,7 +12,7 @@ Currently at **HiBob** as a CX Engineer & Team Lead, where I own incident triage
 `C#` `.NET 8` `Python` `JavaScript` `TypeScript` `SQL`
 
 **Databases**
-`PostgreSQL` `SingleStore` `MySQL`
+`PostgreSQL` `SingleStore` `MySQL` `SQL Server`
 
 **Tools & Platforms**
 `Datadog` `REST APIs` `Postman` `Cursor` `GitHub Actions` `AWS`
